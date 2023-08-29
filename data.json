@@ -1,0 +1,45 @@
+[
+    {
+      "id": "64ea327859b6577c434c12c3",
+      "picture": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1506&q=80",
+      "duration": 7,
+      "courseName": "Web Development",
+      "about": "Voluptate ullamco irure id esse culpa ut eu sit quis sunt amet do minim eu. Tempor non tempor laborum ex enim eiusmod. Labore duis minim commodo reprehenderit sit excepteur commodo adipisicing eu labore sit."
+    },
+    {
+      "id": "64ea3278750c80aec0cb36f4",
+      "picture": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80",
+      "duration": 6,
+      "courseName": "Digital Marketing",
+      "about": "Occaecat reprehenderit voluptate dolor ut incididunt fugiat dolore velit nostrud. Laborum voluptate officia ut sunt amet ad id consequat laboris deserunt sit reprehenderit reprehenderit. Aute ipsum eu nulla do exercitation dolor Lorem cillum sit eiusmod. Labore consectetur commodo in voluptate adipisicing non dolore exercitation. Veniam commodo in incididunt Lorem laborum aliquip Lorem nulla do velit anim irure commodo sint. Velit eu nostrud exercitation occaecat elit dolore minim. Proident non culpa laboris veniam aliquip aute amet ipsum nisi."
+    },
+    {
+      "id": "64ea32788ef02db0569c55bf",
+      
+      "picture": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+      "duration": 24,
+      "courseName": "Computer Science",
+      "about": "Non in cupidatat esse in enim minim ex pariatur. Do in reprehenderit aute cupidatat ut deserunt duis quis. Veniam cupidatat ullamco deserunt magna sit voluptate id fugiat proident. Cillum in veniam Lorem occaecat duis. Magna nisi anim adipisicing pariatur."
+    },
+    {
+      "id": "64ea327899921fcbe3c691f6",
+      "picture": "https://images.unsplash.com/photo-1626785774573-4b799315345d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+      "duration": 10,
+      "courseName": "Graphic Design",
+      "about": "Reprehenderit deserunt exercitation reprehenderit quis consectetur. Fugiat in nostrud aute Lorem laborum ad dolore nisi commodo Lorem Lorem ut nulla ut. Occaecat et exercitation tempor pariatur occaecat cillum. Dolore labore ut irure elit aliquip Lorem cillum officia anim incididunt cillum dolor amet fugiat. Occaecat dolor minim ex labore duis Lorem ipsum mollit."
+    },
+    {
+      "id": "64ea3278ac7ddac54e530c05",
+      "picture": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+      "duration": 8,
+      "courseName": "White Hacking",
+      "about": "Elit magna dolore aliquip est proident laboris cillum. Non aute mollit elit eu est minim ullamco sunt eiusmod elit. Minim in exercitation do aliquip aliqua commodo ex cillum ea quis laboris reprehenderit Lorem voluptate. Nulla laborum magna nostrud non excepteur magna velit reprehenderit est. Aute reprehenderit duis proident tempor labore fugiat labore mollit ea. Proident consectetur occaecat proident aliqua occaecat deserunt tempor velit duis eu irure officia voluptate.\r\n"
+    },
+    {
+      "id": "64ea3278d157cf9cc1d5e737",
+      "picture": "https://images.unsplash.com/photo-1605826832916-d0ea9d6fe71e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1632&q=80",
+      "duration": 6,
+      "courseName": "Video Editor",
+      "about": "Officia ipsum nulla anim commodo cupidatat incididunt tempor. Ullamco enim sit consectetur proident non nulla do qui nisi pariatur sunt eu ea magna. Id ea velit tempor eiusmod do consectetur magna ullamco. Dolore mollit amet quis laboris quis sunt eiusmod. Id do aute laboris reprehenderit elit culpa dolore tempor exercitation adipisicing voluptate id minim deserunt.\r\n"
+    }
+  ]
